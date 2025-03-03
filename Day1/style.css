@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #102C57;
+    margin: 0;
+  }
+  
+  .stopwatch {
+    font-family: Bell MT;
+    color: #0a0101ce;
+    text-align: center;
+    background: #FFCBCB;
+    padding: 35px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 10px rgba(1, 1, 1, 0.5);
+  }
+  
+  .display {
+    font-size: 40px;
+    font-weight: 300;
+    margin: 15px 0;
+    font-size: 40px;
+    color: #0a0101ce
+  }
+  
+  .controls button {
+    text-align: center;
+    font-size: 25px;
+    padding: 9px 20px;
+    margin: 6px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    color: rgb(223, 204, 204);
+  }
+  
+  #startstop { background: #098f4a; }
+  #reset { background: #ab1827; }
+  #lap { background: #1f5896; }
+  
+  #laps {
+    padding: 0;
+    margin-top: 15px;
+  }
+  
+  #laps li {
+    font-size: 16px;
+    padding: 5px;
+    border-bottom: 1px solid #441752;
+  }
+  button:hover {
+    transform: scale(1.1);
+  }
