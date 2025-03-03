@@ -15,6 +15,12 @@ You can watch the demo of how the stopwatch works in the following video:
 
 [Stopwatch Demo Video](https://drive.google.com/file/d/13LDocdk0CU6kPROPit5UuwFtKt2a0uKu/view?usp=drive_link)
 
+## 📸 Screenshot
+
+Here’s a screenshot of the stopwatch in action:
+
+![Stopwatch Screenshot](https://github.com/Sowndharya617/JavaScrip_50day_Challenge/blob/bc60237e37339ecb9347724c99351c8e8295d325/Day1/StopWatch.png)
+
 ## Features Walkthrough
 
 1. **Start/Stop Button**: 
