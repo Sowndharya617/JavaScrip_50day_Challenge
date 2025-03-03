@@ -13,7 +13,7 @@ Welcome to the **Stopwatch Project**! This is a simple stopwatch built using **H
 
 You can watch the demo of how the stopwatch works in the following video:
 
-[![Watch the demo](https://img.youtube.com/vi/your-video-id/0.jpg)](https://www.youtube.com/watch?v=your-video-id)
+[Stopwatch Demo Video](https://drive.google.com/file/d/13LDocdk0CU6kPROPit5UuwFtKt2a0uKu/view?usp=drive_link)
 
 ## Features Walkthrough
 
@@ -25,12 +25,6 @@ You can watch the demo of how the stopwatch works in the following video:
    
 3. **Lap Button**: 
    - Clicking on the **Lap** button records the current time and adds it to the list below the stopwatch display. This allows you to track multiple times during a session.
-
-## Demo Video
-
-Here is a demo of the stopwatch:
-
-[Stopwatch Demo Video](https://github.com/your-username/your-repo-name/blob/main/demo-video.mp4)
 
 ## How to Use
 
