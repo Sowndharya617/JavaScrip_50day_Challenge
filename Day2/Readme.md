@@ -15,7 +15,7 @@ You can watch the demo video of the project here:
 
 ## Screenshots
 ### Screenshot 1:
-![Analog Clock Screenshot](Screenshot%202025-03-04%20221046.png)
+![Analog Clock Screenshot]([Screenshot%202025-03-04%20221046.png](https://github.com/Sowndharya617/JavaScrip_50day_Challenge/blob/main/Day2/Screen1.png))
 
 ### Screenshot 2:
 ![Another View of Analog Clock](<path-to-second-screenshot>)
