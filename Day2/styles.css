@@ -1,0 +1,117 @@
+/* Default Light Theme */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(to bottom, #f5f5f5, #e0e0e0);
+    font-family: Arial, sans-serif;
+    transition: background 0.5s ease-in-out;
+  }
+  
+  .clock-container {
+    text-align: center;
+  }
+  
+  .clock {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border: 8px solid #222;
+    border-radius: 50%;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    background: radial-gradient(circle, #ddd, #aaa);
+  }
+  
+  .hand {
+    position: absolute;
+    bottom: 50%;
+    left: 50%;
+    transform-origin: 50% 100%;
+    background: black;
+    border-radius: 5px;
+  }
+  
+  .hour {
+    width: 6px;
+    height: 50px;
+    transform: translateX(-50%);
+  }
+  
+  .minute {
+    width: 4px;
+    height: 70px;
+    transform: translateX(-50%);
+  }
+  
+  .second {
+    width: 2px;
+    height: 80px;
+    background: red;
+    transform: translateX(-50%);
+  }
+  
+  .center-dot {
+    width: 10px;
+    height: 10px;
+    background: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .digital-time {
+    color: black;
+    font-size: 20px;
+    margin-top: 15px;
+  }
+  
+  #theme-toggle {
+    margin-top: 10px;
+    padding: 8px 12px;
+    border: none;
+    background: black;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  #theme-toggle:hover {
+    background: gray;
+  }
+  
+  /* Dark Theme */
+  .dark-theme {
+    background: linear-gradient(to bottom, #2c3e50, #4ca1af);
+  }
+  
+  .dark-theme .clock {
+    border-color: white;
+    background: radial-gradient(circle, #333, #111);
+  }
+  
+  .dark-theme .hand {
+    background: white;
+  }
+  
+  .dark-theme .center-dot {
+    background: white;
+  }
+  
+  .dark-theme .digital-time {
+    color: white;
+  }
+  
+  .dark-theme #theme-toggle {
+    background: white;
+    color: black;
+  }
+  
+  .dark-theme #theme-toggle:hover {
+    background: lightgray;
+  }
+  
