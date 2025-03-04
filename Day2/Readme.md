@@ -18,7 +18,7 @@ You can watch the demo video of the project here:
 ![Analog Clock Screenshot](https://github.com/Sowndharya617/JavaScrip_50day_Challenge/blob/main/Day2/Screen1.png)
 
 ### Screenshot 2:
-![Another View of Analog Clock](<path-to-second-screenshot>)
+![Another View of Analog Clock](https://github.com/Sowndharya617/JavaScrip_50day_Challenge/blob/main/Day2/Screen2.png)
 
 ## Technologies Used
 - HTML5
